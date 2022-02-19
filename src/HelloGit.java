@@ -4,5 +4,6 @@ public class HelloGit {
         System.out.println("Hello!, Today is Saturday!");
         System.out.println("I like hiking!");
         System.out.println("I love my husband");
+        System.out.println("Naj is very annoying");
     }
 }
