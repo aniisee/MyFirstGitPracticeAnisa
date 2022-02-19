@@ -9,5 +9,6 @@ public class HelloGit {
         int num2=15;
         int sum=num1+num2;
         System.out.println(sum);
+        System.out.println("Life is beautiful!");
     }
 }
