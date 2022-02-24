@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println(sum);
         System.out.println("Life is beautiful!");
         System.out.println("Knowing Git is fun");
+        System.out.println("I love java");
     }
 }
