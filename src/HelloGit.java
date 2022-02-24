@@ -3,7 +3,6 @@ public class HelloGit {
         System.out.println("Today is a beautiful day!");
         System.out.println("Hello!, Today is Saturday!");
         System.out.println("I like hiking!");
-        System.out.println("I love my husband");
         System.out.println("Naj is very annoying");
         int num1=12;
         int num2=15;
